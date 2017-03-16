@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Surgery Display</string>
+    <string name="text_display_id">Display ID: %s</string>
+    <string name="alert_play_services_title">Google Play Services are not available!</string>
+    <string name="alert_play_services_message">This app cannot work properly without Google Play Services.</string>
+    <string name="alert_token_title">Token is not available!</string>
+    <string name="alert_token_message">This app cannot receive messages if the token is not available. Make sure you are connected and try again.</string>
+    <string name="alert_config_title">Config is not available!</string>
+    <string name="alert_config_message">Display config cannot be retrieved from the server. Make sure you are connected and try again.</string>
+    <string name="alert_retry">Retry</string>
+    <string name="alert_exit_app">Exit app</string>
+</resources>
